@@ -429,6 +429,4 @@ Before shipping a release build:
 
 ## License
 
-No license file is currently included in this repository. As no open-source license has been declared, the source code is provided for academic and educational review only and may not be redistributed or used commercially without permission from the project authors.
-
-If you intend to distribute or reuse this project, add a `LICENSE` file (for example, MIT, Apache-2.0, or an institution-specific license) and update this section accordingly.
+No license file is currently included in this repository. As no open-source license has been declared, the source code is provided for academic and educational.
